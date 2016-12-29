@@ -1,4 +1,4 @@
 # PebbleBus
-This is an application that allows a Pebble watch to find the nearest bus stop to the users GPA location.
+This is an application that allows a Pebble watch to find the nearest bus stop to the users GPS location.
 It uses transit API for their specific location, and reports the time it will take for the bus to arrive.
 The code is found in the src folder and it is coded in Javascript.
